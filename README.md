@@ -1,45 +1,45 @@
-# Yusuf Ibrahim Basaran - Personal Portfolio Website
+# Yusuf İbrahim Başaran - Kişisel Portfolyo Web Sitesi
 
-This repository contains the source code for my professional portfolio website, designed to showcase my technical skills, educational background, and software engineering projects. The website features a modern, responsive design with a focus on clean code and user experience.
+Bu depo, teknik yetkinliklerimi, eğitim geçmişimi ve yazılım projelerimi sergilemek amacıyla geliştirdiğim profesyonel portfolyo web sitemin kaynak kodlarını içermektedir. Web sitesi, temiz kod prensipleri ve kullanıcı deneyimi odaklı modern, responsive bir tasarıma sahiptir.
 
-## Technical Stack
+## Teknik Özellikler
 
 *   **Frontend:** HTML5, CSS3 (Vanilla), JavaScript (Vanilla)
-*   **Design Aesthetics:** Dark Mode, Glassmorphism, Neon UI Accents
-*   **Icons & Fonts:** Boxicons Library, Google Fonts (Poppins)
-*   **Form Handling:** Integrated with Formspree for backend-less communication
+*   **Tasarım Estetiği:** Koyu Mod (Dark Mode), Glassmorphism (Cam Efekti), Neon UI Vurguları
+*   **İkonlar & Yazı Tipleri:** Boxicons Kütüphanesi, Google Fonts (Poppins)
+*   **Form Yönetimi:** Backend gerektirmeyen iletişim için Formspree entegrasyonu
 
-## Project Features
+## Proje Özellikleri
 
-### Responsive Design
-The website is fully optimized for all device types, including desktops, tablets, and smartphones. Custom media queries ensure a seamless experience across various screen resolutions.
+### Responsive (Duyarlı) Tasarım
+Web sitesi masaüstü, tablet ve akıllı telefonlar dahil tüm cihaz türleri için tam optimize edilmiştir. Özel medya sorguları (media queries), farklı ekran çözünürlüklerinde sorunsuz bir deneyim sunar.
 
-### Technical Skills Section
-A dedicated section highlighting my core competencies in:
-*   **Programming Languages:** C#, Java, Python, JavaScript
+### Teknik Yetkinlikler Bölümü
+Aşağıdaki alanlardaki temel yetkinliklerimi vurgulayan özel bir bölüm:
+*   **Programlama Dilleri:** C#, Java, Python, JavaScript
 *   **Web & Backend:** ASP.NET Core, HTML5, CSS3, Web API
-*   **Data Management:** Microsoft SQL Server, Data Structures, and Algorithms
+*   **Veri Yönetimi:** Microsoft SQL Server, Veri Yapıları ve Algoritmalar
 
-### Professional Projects
-Detailed showcase of my major software implementations:
-*   **E-Commerce Platform:** A full-stack ASP.NET MVC application featuring CRUD operations, user authentication, and admin management.
-*   **Airline Reservation System:** A robust flight planning and ticketing solution built with ASP.NET and SQL Server.
-*   **Inventory & Warehouse Management:** A Spring Boot-based backend system utilizing RESTful APIs and JWT-based authentication.
+### Profesyonel Projeler
+Geliştirdiğim önemli yazılım projelerinin detaylı tanıtımı:
+*   **E-Ticaret Platformu:** CRUD operasyonları, kullanıcı kimlik doğrulama ve admin yönetimi içeren tam kapsamlı bir ASP.NET MVC uygulaması.
+*   **Havayolu Rezervasyon Sistemi:** ASP.NET ve SQL Server ile kurgulanmış, uçuş planlama ve biletleme süreçlerini yöneten kurumsal bir çözüm.
+*   **Stok & Depo Yönetim Sistemi:** RESTful API mimarisi ve JWT tabanlı kimlik doğrulama kullanan Spring Boot tabanlı backend sistemi.
 
-### Interactive Elements
-*   Smooth scrolling navigation for enhanced user flow.
-*   Dynamic typing animations in the hero section.
-*   Custom-designed favicon for brand consistency.
-*   Functional contact form for direct professional communication.
+### Etkileşimli Öğeler
+*   Gelişmiş kullanıcı akışı için yumuşak kaydırma (smooth scroll) navigasyonu.
+*   Giriş bölümünde dinamik yazı yazma animasyonları.
+*   Marka bütünlüğü için özel tasarlanmış favicon (site ikonu).
+*   Doğrudan profesyonel iletişim için aktif çalışan iletişim formu.
 
-## Installation and Deployment
+## Kurulum ve Yerel Çalıştırma
 
-To view the project locally:
-1. Clone the repository: `git clone https://github.com/yusufibrahimbasaran/yusuf-portfolio.git`
-2. Open `index.html` in your preferred web browser.
+Projeyi yerel bilgisayarınızda görüntülemek için:
+1. Depoyu klonlayın: `git clone https://github.com/yusufibrahimbasaran/yusuf-portfolio.git`
+2. `index.html` dosyasını tercih ettiğiniz bir web tarayıcısında açın.
 
-## Live Version
-You can access the live version of this portfolio at: [https://yusufibrahimbasaran.github.io/yusuf-portfolio/](https://yusufibrahimbasaran.github.io/yusuf-portfolio/)
+## Canlı Versiyon
+Portfolyoma şu adresten canlı olarak ulaşabilirsiniz: [https://yusufibrahimbasaran.github.io/yusuf-portfolio/](https://yusufibrahimbasaran.github.io/yusuf-portfolio/)
 
-## License
-This project is for personal showcase purposes. All rights reserved.
+## Lisans
+Bu proje kişisel sergileme amaçlıdır. Tüm hakları saklıdır.
